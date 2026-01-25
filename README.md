@@ -7,9 +7,6 @@ It contains practice exercises, learning modules, and hands-on coding tasks focu
 - HTML & CSS
 - JavaScript
 - SQL Queries
-
-The purpose of this repository is to track my learning progress and maintain structured practice work assigned during internship.
-
 ---
 
 ## 📌 Purpose of This Repository
